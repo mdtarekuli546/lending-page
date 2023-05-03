@@ -1,0 +1,36 @@
+@media (min-width: 1400px) {}
+@media (min-width: 1200px) and (max-width: 1399px){}
+@media (min-width: 992px) and (max-width: 1199px){}
+@media (min-width: 768px) and (max-width: 991px){
+    .gap {
+        min-height: 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .header-bottom {
+        background-image: url(../img/Table.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 577px;
+        margin-top: 18px;
+        position: relative;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+   
+}
+@media (min-width: 250px) and (max-width: 575px){
+    
+               
+
+}
+
+
+
+
+
+
